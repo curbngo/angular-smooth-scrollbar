@@ -1,6 +1,6 @@
 {
   "name": "angular-smooth-scrollbar",
-  "version": "7.2.0",
+  "version": "8.5.1",
   "description": "An angular module that allows you customize smooth scrollbars",
   "main": "dist/angular-smooth-scrollbar.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idiotWu/angular-smooth-scrollbar.git"
+    "url": "git+https://github.com/curbngo/angular-smooth-scrollbar.git"
   },
   "keywords": [
     "angular",
@@ -22,10 +22,10 @@
   "bugs": {
     "url": "https://github.com/idiotWu/angular-smooth-scrollbar/issues"
   },
-  "homepage": "https://github.com/idiotWu/angular-smooth-scrollbar#readme",
+  "homepage": "https://github.com/curbngo/angular-smooth-scrollbar#readme",
   "dependencies": {
     "angular": "^1.4.8",
-    "smooth-scrollbar": "^7.2.0"
+    "smooth-scrollbar": "^8.5.1"
   },
   "devDependencies": {
     "babel-core": "^5.8.21",
